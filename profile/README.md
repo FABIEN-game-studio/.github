@@ -11,7 +11,9 @@
 <!--
 ## Flexing Metrics Zone
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FABIEN-game-studio&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs][1]](https://github.com/anuraghazra/github-readme-stats)
+
+[1]: https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Fabinistere&theme=dark&layout=compact
 -->
 
 <!--
