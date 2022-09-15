@@ -8,13 +8,13 @@
 - [fight_arena](https://github.com/FABIEN-game-studio/fight_arena): A test repertory to dev npc in FTO
 - B-Hunt
 
-<!--
+
 ## Flexing Metrics Zone
 
 [![Top Langs][1]](https://github.com/anuraghazra/github-readme-stats)
 
-[1]: https://github-readme-stats-wabtey.vercel.app/api/top-langs/?username=Fabinistere&theme=dark&layout=compact
--->
+[1]: https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Wabtey&theme=dark&layout=compact&role=ORGANIZATION_MEMBER
+
 
 <!--
 
