@@ -11,7 +11,7 @@
 -->
 
 [![Readme Card][2]](https://github.com/Elzapat/fabien-et-la-trahison-de-olf)
-[![Readme Card][3]](https://github.com/anuraghazra/fight_arena)
+[![Readme Card][3]](https://github.com/Fabinistere/fight_arena)
 [![Readme Card][4]](https://github.com/Elzapat/b-hunt)
 
 ## Flexing Metrics Zone
