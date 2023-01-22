@@ -13,6 +13,7 @@
 [![Readme Card][2]](https://github.com/Elzapat/fabien-et-la-trahison-de-olf)
 [![Readme Card][3]](https://github.com/Fabinistere/fight_arena)
 [![Readme Card][4]](https://github.com/Elzapat/b-hunt)
+[![Readme Card][5]](https://github.com/Fabinistere/bevy_turn-based_combat)
 
 ## Flexing Metrics Zone
 
@@ -23,3 +24,4 @@
 [2]: https://github-readme-stats.vercel.app/api/pin/?username=Elzapat&repo=fabien-et-la-trahison-de-olf&theme=dark
 [3]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=fight_arena&theme=dark
 [4]: https://github-readme-stats.vercel.app/api/pin/?username=Elzapat&repo=b-hunt&theme=dark
+[5]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=bevy_turn-based_combat&theme=dark
