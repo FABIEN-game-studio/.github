@@ -15,6 +15,7 @@
 [![Readme Card][4]](https://github.com/Elzapat/b-hunt)
 [![Readme Card][5]](https://github.com/Fabinistere/bevy_turn-based_combat)
 [![Readme Card][6]](https://github.com/Fabinistere/cats_destroyer_2000)
+[![Readme Card][7]](https://github.com/Fabinistere/grandstand-gauntlet)
 
 ## Flexing Metrics Zone
 
@@ -27,3 +28,4 @@
 [4]: https://github-readme-stats.vercel.app/api/pin/?username=Elzapat&repo=b-hunt&theme=dark
 [5]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=bevy_turn-based_combat&theme=dark
 [6]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=cats_destroyer_2000&theme=dark
+[7]: https://github-readme-stats.vercel.app/api/pin/?username=Fabinistere&repo=grandstand-gauntlet&theme=dark
