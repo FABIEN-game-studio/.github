@@ -1,7 +1,7 @@
 # F.A.B.I.E.N. Game Studio
 
 <!-- ![Fabinie Land - Final II](https://user-images.githubusercontent.com/73140258/200381070-911c66dc-5b3e-4573-ac57-8375a8259798.gif "prayge your sanity...") -->
-![F A B I E N  Game Studio](https://github.com/Fabinistere/.github/assets/73140258/a6c3761d-5a4a-4fdf-ab2f-359280a7586d)
+![F A B I E N  Game Studio](https://github.com/Fabinistere/.github/assets/73140258/d2dce64c-0631-455f-b5bb-1ecbcc4e456c)
 
 ## Current project
 
