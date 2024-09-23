@@ -11,7 +11,7 @@
 - B-Hunt
 -->
 
-[![Readme Card][2]](https://github.com/Elzapat/fabien-et-la-trahison-de-olf)
+[![Readme Card][2]](https://github.com/Fabinistere/fabien-et-la-trahison-de-olf)
 [![Readme Card][3]](https://github.com/Fabinistere/fight_arena)
 [![Readme Card][4]](https://github.com/Elzapat/b-hunt)
 [![Readme Card][5]](https://github.com/Fabinistere/bevy_turn-based_combat)
